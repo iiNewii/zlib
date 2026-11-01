@@ -60,3 +60,4 @@ site/zh/
 
 # Local session handoff notes
 /docs/handoff.md
+.env
